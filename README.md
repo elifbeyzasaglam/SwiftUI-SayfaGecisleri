@@ -17,6 +17,9 @@ This application is a simple project that demonstrates navigation between pages 
 
 ## Features
 •	Simple page navigation with SwiftUI
+
 •	Usage of NavigationStack and NavigationLink
+
 •	Page transition by tapping a button
+
 •	Back button to return to the previous page
