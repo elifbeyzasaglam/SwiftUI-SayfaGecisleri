@@ -1,6 +1,5 @@
 # SwiftUI Sayfa Geçişleri
-![Apple Music App](https://github.com/user-attachments/assets/e75599b2-6a3c-4015-99d2-7753e8b2fd75
-)
+![SwiftUI Sayfa Geçişleri](https://github.com/user-attachments/assets/8770eb08-3d33-4a27-b3f5-711d35986261)
 
 ## Projece Açıklaması 
 Bu uygulama, SwiftUI kullanarak sayfalar arası geçişleri (navigation) gösteren basit bir projedir. SwiftUI’daki NavigationStack ve NavigationLink yapılarını kullanarak, kullanıcıların bir sayfadan diğerine nasıl yönlendirilebileceği anlatılmıştır
