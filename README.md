@@ -12,10 +12,10 @@ Bu uygulama, SwiftUI kullanarak sayfalar arası geçişleri (navigation) göster
 
 ---------------------------------------------------------
 
-##Project Description
+## Project Description
 This application is a simple project that demonstrates navigation between pages using SwiftUI. It showcases how to guide users from one page to another by utilizing NavigationStack and NavigationLink structures in SwiftUI.
 
-##Features
+## Features
 •	Simple page navigation with SwiftUI
 •	Usage of NavigationStack and NavigationLink
 •	Page transition by tapping a button
